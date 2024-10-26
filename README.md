@@ -23,14 +23,4 @@ After downloading, simply edit site.js and add your own Flickr and AccuWeather A
 * [Weather Icons](https://github.com/erikflowers/weather-icons) - Icon font and CSS with 222 weather themed icons
 * [Free animated SVG weather icons](https://www.amcharts.com/free-animated-svg-weather-icons/)
 
-## Author
-
-[Marios Sofokleous](https://www.msof.me/) (PictureElement)
-
-## Todo
-
 Fix time related bugs (moonrise, moonset, sunrise, sunset, client time)
-
-## Copyright &amp; License
-
-&copy; 2019 Marios Sofokleous (PictureElement). Code released under the [MIT](LICENSE) license.
