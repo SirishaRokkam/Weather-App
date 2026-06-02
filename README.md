@@ -1,4 +1,4 @@
-# Weather App
+# Weather Website 
 
 A weather app built with jQuery using the AccuWeather and Flickr APIs. The app features current weather conditions, hourly and 5-day forecasts as well as miscellaneous information such as UV-index, air quality, visibility, cloud coverage, moon phase, and many more.
 
